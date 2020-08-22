@@ -8,7 +8,7 @@ NGmerge/NGmerge:
 	echo “Make of NGmerge DONE”
 
 ../inst/NGmerge: NGmerge/NGmerge
-	mv NGmerge/bin ../inst
+	mv NGmerge ../inst
 	echo “Copy of NGmerge DONE”
 
 .PHONY: clean
