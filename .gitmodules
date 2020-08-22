@@ -1,0 +1,3 @@
+[submodule "src/NGmerge"]
+	path = src/NGmerge
+	url = https://github.com/harvardinformatics/NGmerge.git

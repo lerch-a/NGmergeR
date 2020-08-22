@@ -1,0 +1,12 @@
+Package: NGmergeR
+Type: Package
+Title: R NGmerge Wrapper
+Version: 0.99.1
+Date: 2020-08-19
+Author: Anita Lerch
+Maintainer: Anita Lerch <anita.lerch@nd.edu>
+Suggests: 
+Description: NGmergeR provides an R wrapper around NGmerge, a rXXXX. The package is used by the HaplotypR package.
+License: GPL-3
+LazyLoad: yes
+biocViews: HighThroughputSequencing
